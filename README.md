@@ -1,12 +1,13 @@
-#MICRODOS存储库
-你知道"微数计划"吗？
+ #MICRODOS Repository 
+ 
+Do you know about the "MICRODOS Plan"?
+ 
+It is just a small program for convenient batch processing and work. To facilitate updates, I have enabled a repository on GitHub. Thank you for your attention! Thank you!
 
-它只是一个方便批处理和工作的小程序。为了方便更新，我在 Github 上启用了资源库。请多关照！谢谢！
+I know it may sound boring, but there are still quite a few people in the world who encounter some troubles while using the WINDOWS operating system.
 
-我知道这很无聊，但是世界上仍然有相当多的人在使用WINDOWS操作系统时遇到一些麻烦。
+Of course, my program is aimed at some intermediate computer novices, so you don't have to be so troublesome when using certain system programs.
 
-当然，我的程序是针对一些中级计算机新手的，所以我在使用某些系统程序时不必那么麻烦。
+Presumably, many people should know about VMware's VMware Workstation virtual machine software (which allows you to build a virtual system environment on your computer). When you install the WINDOWS operating system in it, you may encounter situations where you cannot activate it. For your convenience, we added an activation program in the Vision 17.0 initially, which is also the main reason for developing this software.
 
-想必很多人应该知道VMware开发的VMWARE Workstation虚拟机软件（它可以在您的计算机上构建虚拟系统环境）。当您在其中安装 WINDOWS 操作系统时，您可能会遇到无法激活它的情况。为了您的方便，我们最开始在Vision 17.0中添加了一个激活程序，这也是我们开发该软件的主要原因。
-
-我将开源该软件的最新版本，供大家使用和学习。
+I will open source the latest version of the software for everyone to use and learn from.
