@@ -1,6 +1,14 @@
  #MICRODOS Repository 
  
 Do you know about the "MICRODOS Plan"?
+
+Microdos,a software on Windows.It has its own command grammar,just like cmd,java and powershell.
+
+Although Microdos have not have some detailed using way,but i am sure that it will be the powerful tool on your desk or the most convenient tool when you do anything ,and all of these will be come true in nearly future.
+
+Although Microdos only based on Windows platform,but only in based on Windows platform,it will do it all best,If in this condition,its ability can over all tool that on the Internet.
+
+Because of the code are depend on .net framework,so it can not out of Windows platform quickly and than achieve all platform supported.
  
 It is just a small program for convenient batch processing and work. To facilitate updates, I have enabled a repository on GitHub. Thank you for your attention! Thank you!
 
